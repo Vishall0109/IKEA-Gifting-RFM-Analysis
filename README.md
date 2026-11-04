@@ -87,6 +87,24 @@ rfm['F_Score'] = pd.qcut(rfm['Frequency'].rank(method='first'), 5, labels=[1, 2,
 rfm['M_Score'] = pd.qcut(rfm['Monetary'], 5, labels=[1, 2, 3, 4, 5]).astype(int)
 ```
 
+## Power BI Dashboard Preview
+
+### 1. Business Overview – Customer
+
+![Business Overview Customer](Business%20Overview%20(Customer).png)
+
+### 2. Business Overview – Revenue
+
+![Business Overview Revenue](Business%20Overview%20(Revenue).png)
+
+### 3. RFM Analysis – Segment
+
+![RFM Analysis Segment](FRM%20Analysis%20(Segment).png)
+
+### 4. RFM Analysis – Country
+
+![RFM Analysis Country](RFM%20Analysis%20(Country).png)
+
 # Connect with Me
 - LinkedIn: [Vishal Solanke](https://www.linkedin.com/in/vishal-solanke-3a356a377)
 
