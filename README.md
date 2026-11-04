@@ -38,7 +38,7 @@ Online Retail II, UCI Machine Learning Repository, donated by Daqing Chen. A rea
 | SQL Server / SSMS | Data import, cleaning, deduplication, and exploratory querying on the full 1M+ row dataset |
 | Python (pandas) | RFM calculation, customer scoring, segmentation logic, and churn flagging |
 | Jupyter Notebook | Interactive development environment for the Python analysis |
-| Power BI Desktop | Three-page interactive dashboard: executive summary and RFM deep dive |
+| Power BI Desktop | Two-page interactive dashboard: executive summary and RFM deep dive |
 | DAX | Measures for customer counts, revenue totals, and average customer value |
 
 # Core Concepts Demonstrated
