@@ -87,6 +87,20 @@ rfm['F_Score'] = pd.qcut(rfm['Frequency'].rank(method='first'), 5, labels=[1, 2,
 rfm['M_Score'] = pd.qcut(rfm['Monetary'], 5, labels=[1, 2, 3, 4, 5]).astype(int)
 ```
 
+## Dashboard Preview
+
+### 1. Business Overview – Customer
+![Business Overview Customer](Dashboard%20Images/Business%20Overview%20(Customer).png)
+
+### 2. Business Overview – Revenue
+![Business Overview Revenue](Dashboard%20Images/Business%20Overview%20(Revenue).png)
+
+### 3. RFM Analysis – Customer Segments
+![RFM Analysis Segment](Dashboard%20Images/FRM%20Analysis%20(Segment).png)
+
+### 4. RFM Analysis – Country
+![RFM Analysis Country](Dashboard%20Images/RFM%20Analysis%20(Country).png)
+
 
 # Connect with Me
 - LinkedIn: [Vishal Solanke](https://www.linkedin.com/in/vishal-solanke-3a356a377)
